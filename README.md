@@ -1,4 +1,5 @@
-# site-awax
- Projeto de página criado utilizando os conceitos básicos de HTML e CSS.
-
- Link: https://project-awax1.netlify.app/
+# awax-page-template
+* B7Web's HTML5 and CSS3 Course Exercise.
+* Objective: to work on the concepts of responsiveness.
+* Technologies used: HTML5 and CSS3.
+* Link: https://awax-page-template.netlify.app/
